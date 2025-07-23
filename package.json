@@ -1,0 +1,12 @@
+{
+  "name": "iitk-tarot-reader",
+  "version": "1.0.0",
+  "description": "IIT Kanpur Tarot Card Reader - Brain & Cognitive Science Club",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "IIT Kanpur Brain & Cognitive Science Club",
+  "license": "MIT"
+}
